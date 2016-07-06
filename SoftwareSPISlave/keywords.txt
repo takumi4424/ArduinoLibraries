@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map for SoftwareSPISlave
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SPISlave	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+write		KEYWORD2
+read		KEYWORD2
+peek		KEYWORD2
+available	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
